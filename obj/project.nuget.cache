@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9nQ3rF5Ms0bHvGzHLvmip+UMcZz4nUVslYKZtDqu9c9o3YcnYhFxc0/5cdvjdj81u5QrQcU1dN6/d3s4AF4EHw==",
+  "dgSpecHash": "9e8xfrQnvuLNeRdskZnvrSQDBcA0kYIw/Rayz1TUKQY0vRPAxhtLc6aeDp4YLkd4odz6AXgLIPPL7HE3/Nvwrg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Rodrigo\\Documents\\Rodrigo\\ClickJogos\\ClickJogos.csproj",
+  "projectFilePath": "C:\\Users\\Rodrigo\\Documents\\Rodrigo\\ClickJogos\\ClickJogos\\ClickJogos.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Rodrigo\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Rodrigo\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",

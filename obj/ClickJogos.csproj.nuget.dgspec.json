@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Rodrigo\\Documents\\Rodrigo\\ClickJogos\\ClickJogos.csproj": {}
+    "C:\\Users\\Rodrigo\\Documents\\Rodrigo\\ClickJogos\\ClickJogos\\ClickJogos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Rodrigo\\Documents\\Rodrigo\\ClickJogos\\ClickJogos.csproj": {
+    "C:\\Users\\Rodrigo\\Documents\\Rodrigo\\ClickJogos\\ClickJogos\\ClickJogos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rodrigo\\Documents\\Rodrigo\\ClickJogos\\ClickJogos.csproj",
+        "projectUniqueName": "C:\\Users\\Rodrigo\\Documents\\Rodrigo\\ClickJogos\\ClickJogos\\ClickJogos.csproj",
         "projectName": "ClickJogos",
-        "projectPath": "C:\\Users\\Rodrigo\\Documents\\Rodrigo\\ClickJogos\\ClickJogos.csproj",
+        "projectPath": "C:\\Users\\Rodrigo\\Documents\\Rodrigo\\ClickJogos\\ClickJogos\\ClickJogos.csproj",
         "packagesPath": "C:\\Users\\Rodrigo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rodrigo\\Documents\\Rodrigo\\ClickJogos\\obj\\",
+        "outputPath": "C:\\Users\\Rodrigo\\Documents\\Rodrigo\\ClickJogos\\ClickJogos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Rodrigo\\AppData\\Roaming\\NuGet\\NuGet.Config"

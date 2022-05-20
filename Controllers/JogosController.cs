@@ -80,7 +80,8 @@ namespace ClickJogos.Controllers
             _context.Jogos.Add(jogo);
             await _context.SaveChangesAsync();
 
-            return CreatedAtAction("GetJogo", new { id = jogo.Id }, jogo);
+            return CreatedAtAction(nameof(GetJogo), new { id = jogo.Id }, jogo);
+            //return CreatedAtAction("GetJogo", new { id = jogo.Id }, jogo);
         }
 
         // DELETE: api/Jogos/5
